@@ -1,7 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Joshua Lukas
+### Student number: 47712651
+
+
+
+
+
+BASE COORDINATES FOR PLAYER CHARACTER: X = -6.25, Y = -1
+
+
+
+
+
+
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -37,27 +49,31 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Acid yes
 
-### 2.2. Checkpoints
+### 2.2. Checkpoints yes
 
-### 2.3. Chompers
+### 2.3. Chompers yes
 
-### 2.4. Health Pickups
+### 2.4. Health Pickups yes
 
-### 2.5. Keys
+### 2.5. Keys I (yes) II (yes) III (yes)
 
-### 2.6. Moving Platforms
+### 2.6. Moving Platforms yes
 
-### 2.7. Passthrough Platforms
+### 2.7. Passthrough Platforms yes
 
-### 2.8. Spikes
+### 2.8. Spikes yes
 
-### 2.9. Spitters
+### 2.9. Spitters yes
 
-### 2.10. Weapon Pickup (Gun)
+### 2.10. Weapon Pickup (Gun) yes
 
-### 2.11. Weapon Pickup (Staff)
+### 2.11. Weapon Pickup (Staff) yes
+
+### 2.12. Destructable Column
+
+3 in total so far - one blocking key, one blocking first battle entrance, one blocking first battle exit.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -83,18 +99,9 @@ Use the below table to indicate any Generative AI or writing assistance tools us
 An example has been included. Please replace this with any actual tools, and add more as necessary.
 
 
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+### Tool Used: None
+**Nature of Use** N/A
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+**Evidence Attached?** N/A
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
+**Additional Notes:** N/A
