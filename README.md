@@ -119,7 +119,7 @@ Through iterative design and playtesting, the level was able to be restructured 
 
 ## Generative AI Use Acknowledgement
 
-### Tool Used: None
+### Tool Used: None Used
 
 **Nature of Use** N/A
 
